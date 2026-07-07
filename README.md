@@ -1,5 +1,5 @@
 # Todo Application
-
+Пример из книги [Building Python Web-APIs with FastAPI](https://github.com/PacktPublishing/Building-Python-Web-APIs-with-FastAPI)
 Простое веб-приложение для управления задачами, построенное на FastAPI.
 
 ## Описание
